@@ -1,1 +1,26 @@
-
+{
+    "name": "StudyBot",
+    "description": "This bot is very helpful for your study. You have to access pdf, videos, notes etc. through this bot.",
+    "keywords": [
+        "telegram",
+        "github",
+        "study"
+    ],
+    "repository": "https://github.com/FantasticSukhi/StudyBot",
+    "success_url": "https://t.me/THE_THIRD_EYE_NETWORK",
+    "website": "https://github.com/FantasticSukhi",
+    "env": {
+        "API_HASH": {
+            "description": "Get one from https://my.telegram.org/apps",
+            "value": ""
+        },
+        "API_ID": {
+            "description": "Get one from https://my.telegram.org/apps",
+            "value": ""
+        },
+        "TOKEN": {
+            "description": "From BotFather",
+            "value": ""
+        }
+    }
+}
